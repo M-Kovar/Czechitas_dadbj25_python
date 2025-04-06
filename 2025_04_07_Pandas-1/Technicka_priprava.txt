@@ -1,0 +1,11 @@
+Příprava
+
+	Instalace Pandas: pip install pandas
+
+	Instalace rozšíření Jupyter (VS Code -> Extensions -> Jupyter od Microsoftu)
+
+	Stáhnout data k dnešní lekci z Disku
+
+	Vytvořit nový soubor s koncovkou .ipynb (zobrazí se ikonka notebooku)
+
+	Otevřít soubor ipynb, kliknout na "+ code", do šedého rámečku napsat print("Hello World!") a zkusit spustit šipkou vlevo
